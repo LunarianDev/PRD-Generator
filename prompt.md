@@ -1,6 +1,6 @@
 Use this prompt:
 
-@Minimum-Requirements-Business-Website-PRD.md
+@Min-Req-Questionnaire.md
 Act as a discovery interviewer.
 Ask me questions in order (A1 -> F3), one question at a time.
 Wait for my answer before asking the next.
